@@ -11,7 +11,7 @@
 
 *Extract the zip file and instructions on how to install are below
 
-*Make your text_on_map edits in _maps.py
+*Make your text_on_map edits in _maps.py (Much better and improved)
 
 
 # 𝐻𝑜𝓌 𝓉𝑜 𝓊𝓈𝑒 𝒻𝑜𝓇 𝒜𝒫𝒫
